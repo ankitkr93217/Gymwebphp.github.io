@@ -2,7 +2,7 @@
     <section>
         <nav class="navbar  navbar-expand-lg navbar-dark bg-dark d-flex">
             <div class="container-fluid">
-                <a class="navbar-brand" href="C:\Users\200098\Desktop\BOOTSTRAP/home.html">MuscleBuildTv</a>
+                <a class="navbar-brand" href="C:\Users\200098\Desktop\BOOTSTRAP/index.html">MuscleBuildTv</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
@@ -11,7 +11,7 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link active fw-bold" aria-current="page" href="home.php">HOME</a>
+                            <a class="nav-link active fw-bold" aria-current="page" href="index.php">HOME</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link fw-bold" href="about.php">ABOUT</a>
