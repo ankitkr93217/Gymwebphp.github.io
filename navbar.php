@@ -2,7 +2,7 @@
     <section>
         <nav class="navbar  navbar-expand-lg navbar-dark bg-dark d-flex">
             <div class="container-fluid">
-                <a class="navbar-brand" href="C:\Users\200098\Desktop\BOOTSTRAP/index.html">MuscleBuildTv</a>
+                <a class="navbar-brand" href="C:\Users\200098\Desktop\BOOTSTRAP/index.php">MuscleBuildTv</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
