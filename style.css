@@ -1,0 +1,69 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.upbutton {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+#home { width: 100vw;
+    background-image: url('image/kar.jpg');
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.8;
+    color: white;
+}
+.homerow{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items:center;
+    text-align: center;
+}
+.coach {
+    background-color: #2e2a2a;
+} 
+.carousel-item{
+    width:100vw;
+   min-height: 300px;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   text-align: center;
+   align-items: center;
+} 
+.cardcontent {
+      margin: auto;
+} 
+#trending{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.workouttiptext{
+    text-align: start;
+}
+/*for youtube videos
+.embed-responsive{
+    position: relative;
+    height:0;
+    padding-bottom:56.25%;
+}
+.embed-responsive iframe{
+    position:absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+}
+*/
+ 
